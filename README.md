@@ -1,12 +1,19 @@
-# React + Vite
+# 🛍️ Shopping-Cart
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern e-commerce web application built with **React** and **Bootstrap**, originally developed using **Native JavaScript** during my training at **Web Master Company**, and later refactored to React for better scalability and performance.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔐 **Login System** — Secure login functionality with form validation  
+- 🛒 **Cart Management** — Add, remove, and update product quantities in the shopping cart  
+- 📦 **Products Page** — Display products dynamically with clean UI  
+- 💰 **Total Calculation** — Real-time total price updates when modifying the cart  
+- 📱 **Responsive Design** — Fully responsive using Bootstrap  
+- ⚡ **Fast & Interactive** — Smooth user experience with component-based structure
 
-## Expanding the ESLint configuration
+## 🧰 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React.js** — For building the interactive UI
+- **Bootstrap** — For styling and responsive layout
+- **JavaScript (ES6)** — For logic and functionality
+- **Local Storage** — To persist cart data locally
